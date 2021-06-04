@@ -4,22 +4,75 @@
 
 
 Day-1
-1)Table Tag
-2)Registration Form
+Table Tag
+Registration Form
 
 
 
 
 
 Day 2
-1)Welcome to PHP
-2)Variables in PHP
-3)if...else in PHP
-4)Switch case in PHP
-5)For Loop in PHP
+Welcome to PHP
+Variables in PHP
+if...else in PHP
+Switch case in PHP
+For Loop in PHP
 and other C static programs like leap year etc.
-6)Date & Time Function in PHP
-7)Math Functions in PHP
-8)String Functioins in PHP
-9)Function in PHP
-10)array in php
+Date & Time Function in PHP
+Math Functions in PHP
+String Functioins in PHP
+Function in PHP
+array in php
+
+
+
+Day-3
+
+For Loop program using Table Tag
+convert day 2's static program dynamic through form
+get and post method
+Registration Form Using PHP
+
+Day-4
+
+PHP Template Integration
+searching and integration work
+
+
+Day-5
+
+remaining work in theme 2
+
+
+
+Day-6
+
+integration work in theme3
+
+
+Day-7
+
+Numerical Array, Index Dynamic Array
+Assosiative Array
+Array Functions
+Total 30 Functions
+
+
+
+Day -8
+
+Database connection.
+insertion operation in php.
+
+
+Day - 9
+
+learning about select and delete query
+perform deletion operation in php both softdeletion and hard deletion.
+learn to fetching data from database
+redirection on pages
+
+Day - 10
+
+Learning a update query and embed into theme.
+Perform update operations on table
