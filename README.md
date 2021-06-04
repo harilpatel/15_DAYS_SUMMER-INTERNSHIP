@@ -74,5 +74,4 @@ redirection on pages
 
 Day - 10
 
-Learning a update query and embed into theme.
 Perform update operations on table
