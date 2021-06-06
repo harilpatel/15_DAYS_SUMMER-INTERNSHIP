@@ -1,0 +1,237 @@
+/*
+  Template 0258
+  Designed by CSS Templates For Free and licensed under the Creative Commons Attribution 3.0
+  Website: http://www.csstemplatesforfree.org/
+  Twitter: @cssforfree
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #2680D9;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+body {
+  color: #404040;
+  line-height: 1.5em;
+  font-size: 11.5pt;
+  background: #FFFFFF url('images/bg1.gif') repeat-x top left;
+}
+
+body,input {
+  font-family: Georgia, serif;
+}
+
+br.clear-all {
+  clear: both;
+}
+
+h1,h2,h3,h4 {
+  letter-spacing: -1px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h2,h3,h4 {
+  color: #000;
+  font-family: Georgia, serif;
+  margin-bottom: 0.75em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+img.float-left {
+  margin: 5px 20px 20px 0;
+  float: left;
+}
+
+img.float-top {
+  margin: 5px 0 20px 0;
+}
+
+p {
+  margin-bottom: 1.25em;
+}
+
+ul {
+  margin-bottom: 1.25em;
+}
+
+ul h4 {
+  margin-bottom: 0.3em;
+}
+
+#column1 {
+  float: left;
+  width: 675px;
+  padding: 0;
+}
+
+#column2 {
+  width: 250px;
+  margin: 0 0 0 690px;
+  padding: 0;
+}
+
+#content1 {
+  margin: 0 0 15px 0;
+  overflow: hidden;
+}
+
+#content2 {
+  overflow: hidden;
+  margin: 0 0 15px 0;
+}
+
+#content3 {
+  overflow: hidden;
+}
+
+#feature-box {
+  margin: 0 0 20px 0;
+  width: 980px;
+  height: 310px;
+  padding: 0;
+  position: relative;
+  background: #FFF;
+}
+
+#header {
+  padding: 20px;
+  height: 135px;
+  width: 940px;
+  position: relative;
+}
+
+#inner-container {
+  margin: 0 0 0 0;
+  width: 940px;
+  position: relative;
+  padding: 20px;
+}
+
+#inner-container .features {
+  padding-left: 0;
+  list-style: none;
+}
+
+#inner-container .features li {
+  padding: 10px 0 10px 0;
+  clear: both;
+}
+
+#inner-container ul {
+  list-style: none;
+}
+
+#inner-container ul li {
+  padding: 5px 0 5px 0;
+  border-top: solid 1px #B5B5B5;
+}
+
+#inner-container ul li.first-item {
+  border-top: 0;
+  padding-top: 0;
+}
+
+#main-logo {
+  line-height: 115px;
+  height: 115px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+}
+
+#main-logo a {
+  text-decoration: none;
+  color: #000;
+}
+
+#main-logo h1 {
+  font-family: Georgia, serif;
+  font-size: 2em;
+}
+
+#main-menu {
+  left: 0;
+  font-family: Georgia, serif;
+  line-height: 60px;
+  background: #1771CA url('images/bg2.gif') repeat-x top left;
+  height: 60px;
+  margin: 20px 0 0 0;
+  padding: 0 20px 0 20px;
+  position: absolute;
+  bottom: 0;
+  border-top: solid 1px #53ADFF;
+  width: 940px;
+  border-bottom: solid 1px #0D67C0;
+}
+
+#main-menu a {
+  color: #FFF;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: -1px;
+}
+
+#main-menu ul {
+  list-style: none;
+}
+
+#main-menu ul li {
+  display: inline;
+  padding: 0 10px 0 10px;
+}
+
+#main-menu ul li.first-item {
+  padding-left: 0;
+}
+
+#outer-container {
+  margin: 45px auto 0 auto;
+  position: relative;
+  width: 980px;
+}
+
+#search-form input.btn {
+  font-family: Georgia, serif;
+  color: #FFF;
+  margin-left: 1em;
+  background: #2680D9;
+  border: 0;
+  padding: 0;
+  border-top: solid 1px #62BCFF;
+}
+
+#search-form input.txt {
+  border: solid 1px #B5B5B5;
+  padding: 5px;
+}
+
+#site-credits {
+  margin: 0 0 50px 0;
+  padding: 35px 0 55px 0;
+  text-align: center;
+}
+
+#site-credits a {
+  color: #404040;
+}
