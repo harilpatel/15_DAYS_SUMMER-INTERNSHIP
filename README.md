@@ -1,4 +1,4 @@
-# Summer-INTERNSHIP
+# SUMMER-INTERNSHIP
 15 Days Free Internship At Akash Technolabs
 
 
