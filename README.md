@@ -75,3 +75,14 @@ redirection on pages
 Day - 10
 
 Perform update operations on table
+
+
+Day  - 11
+
+Learn  Wordpress
+
+How to make a blog 
+
+Day - 12
+
+How To make Websites
