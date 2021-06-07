@@ -86,3 +86,23 @@ How to make a blog
 Day - 12
 
 How To make Websites
+
+
+
+
+Day - 13
+
+Remaining work completion
+Task uplodation work on git
+Editing on wordpress site
+
+
+Day -14
+Adding login into crud operation
+
+
+Day - 15
+
+Learning web hosting in 000webhost
+Task submission work
+Report creation
