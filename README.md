@@ -1,5 +1,5 @@
 # SUMMER_INTERNSHIP
-15 Days Free Internship At Akash Technolabs
+15 Days Internship At Akash Technolabs As PHP DEVELOPER
 
 
 
