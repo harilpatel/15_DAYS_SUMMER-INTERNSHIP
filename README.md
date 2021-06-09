@@ -106,3 +106,8 @@ Day - 15
 Learning web hosting in 000webhost
 Task submission work
 Report creation
+
+
+
+http://localhost/blog/?p=5&preview=true
+
