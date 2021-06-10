@@ -109,5 +109,5 @@ Report creation
 
 
 
-http://localhost/blog/?p=5&previewtrue
+http://localhost/blog/?p=5&preview=true
 
